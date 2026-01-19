@@ -66,7 +66,7 @@ Durante o desenvolvimento, foram aplicadas as seguintes etapas:
 
 > Visualização do dashboard desenvolvido no Power BI:
 
-![Production Dashboard](Production_Dashboard.png)
+![Sales Dashboard](images/production_dashboard.png)
 
 ---
 
