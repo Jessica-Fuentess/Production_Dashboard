@@ -73,11 +73,12 @@ Durante o desenvolvimento, foram aplicadas as seguintes etapas:
 ## 🗂️ Estrutura do Repositório
 
 ```text
-📁 dashboard-producao
-├── Production_Dashboard.png   # Print do dashboard final
-├── Production Data.xlsx       # Base de dados utilizada no projeto
-├── Dashboard_Producao.pbix    # Arquivo do Power BI
-└── README.md                  # Documentação do projeto
+📁 Production_Dashboard
+├── Production_Dashboard.pbix
+├── Production Data.xlsx
+├── images/
+│   └── production_dashboard.png
+├── README.md
 ```
 
 ---
